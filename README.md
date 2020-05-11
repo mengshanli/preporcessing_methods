@@ -1,0 +1,2 @@
+# preporcessing_methods
+Introduce codes and methods of preprocessing in Python according to Preprocessing and Visualization (Jonathan Diehl, 2004). Below is the methods:  Data Cleaning 1. Missing Values  2. Noisy Data  Data Integration 1. Data Merging 2. Redundancies  3. Value conflicts   Data Transformation 1. Normalization 2. Attribute Construction  Data Reduction 1. Data Cube Aggregation 2. Attribute Subset Selection 3. Principal Components Analysis 4. Multidimensional Scaling  5. Locally Linear Embedding
